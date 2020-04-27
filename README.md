@@ -6,7 +6,7 @@ Original task you can find at https://github.com/freelancehunt/code-test
 
 # Installation
 
-    git clone
+    git clone https://github.com/taras-drobinskyi/freelancehunt.git
     cd freelancehunt
     composer install
     
