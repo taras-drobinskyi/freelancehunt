@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #454545;
+}
+.logo {
+    width:400px;
+    height: 100px;
+    background: url('/img/freelancehunt-ru.png') no-repeat;
+    margin: 20px 30px;
+}
+
+.container {
+    border: 1px solid #454545;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 33px;
+}
